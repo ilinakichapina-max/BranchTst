@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how GIGA IDE suggests fixing it.
-        System.out.println("Версия из ветки MAIN");
+        System.out.println("Версия из ветки MAIN - обновлено");
 
 
         for (int i = 1; i <= 5; i++) {
